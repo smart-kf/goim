@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-// InternalIP return internal ip.
+// InternalIP return services ip.
 func InternalIP() string {
 	inters, err := net.Interfaces()
 	if err != nil {

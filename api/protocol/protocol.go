@@ -3,10 +3,10 @@ package protocol
 import (
 	"errors"
 
-	"github.com/Terry-Mao/goim/pkg/bufio"
-	"github.com/Terry-Mao/goim/pkg/bytes"
-	"github.com/Terry-Mao/goim/pkg/encoding/binary"
-	"github.com/Terry-Mao/goim/pkg/websocket"
+	"github.com/smart-kf/goim/pkg/bufio"
+	"github.com/smart-kf/goim/pkg/bytes"
+	"github.com/smart-kf/goim/pkg/encoding/binary"
+	"github.com/smart-kf/goim/pkg/websocket"
 )
 
 const (

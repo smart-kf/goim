@@ -1,5 +1,5 @@
-module github.com/Terry-Mao/goim
-
+module github.com/smart-kf/goim
+// https://github.com/smart-kf/goim
 go 1.13
 
 require (
